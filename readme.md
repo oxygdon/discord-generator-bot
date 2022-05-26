@@ -7,6 +7,6 @@
 ### Desing
 the bot has a unique design
 
-![](https://imgur.com/4RICUNY)
+![](https://imgur.com/4RICUNY.png)
 ![](https://imgur.com/q911avz)
 ![](https://imgur.com/xqekks0)
