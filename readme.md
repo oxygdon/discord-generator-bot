@@ -26,6 +26,6 @@ banal possibility of adding accounts to the generator and the ability to check t
 ![](https://imgur.com/BwoVyLH.png)
 ![](https://imgur.com/6Q8RMmt.png)
 
-### Support
+### Support/Contact
 
 Oxygdon#0150
