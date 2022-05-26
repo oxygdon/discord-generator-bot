@@ -1,31 +1,30 @@
-# Discord generator bot
-## Required to use:
+# Discord Whitelist Fivem bot
+## Potrzebne programy do odpalenia:
 - [Node](https://nodejs.org/en/blog/release/v14.19.0/)
 
-## About bot
+## Na temat bota
 
-### Desing
-the bot has a unique design
+bot został zrobiony przeze mnie we współpracy z panem Maciejem. Bot nie posiada błędów, jest gotowy do odpalenia. Upubliczniam tego bota ze względu na to, że nie mam po co go trzymać u siebie - i tak go nie sprzedam. Bot nie jest zakodowany, nie posiada jakichkolwiek licencji - free to use
 
-![](https://imgur.com/4RICUNY.png)
-![](https://imgur.com/q911avz.png)
-![](https://imgur.com/xqekks0.png)
-![](https://imgur.com/wfo5uMW.png)
-![](https://imgur.com/ZemcXgM.png)
-![](https://imgur.com/L9IN2q6.png)
-![](https://imgur.com/vnw8kwJ.png)
-![](https://imgur.com/undefined.png)
+### Wgląd na bota:
 
-### Setup
-bot is easy to setup and use
+![](https://imgur.com/cmlqaLM.png)
+![](https://imgur.com/sSYeU07.png)
+![](https://imgur.com/6nCuqGF.png)
 
-![](https://imgur.com/cGo3nDI.png)
+### Bot równiez wysyła wiadomości na dm
 
-banal possibility of adding accounts to the generator and the ability to check the quantity using a command
+![](https://imgur.com/ftmdN8P.png)
+![](https://imgur.com/vnZGIvy.png)
 
-![](https://imgur.com/BwoVyLH.png)
-![](https://imgur.com/6Q8RMmt.png)
+### Logi
 
-### Support/Contact
+bot posiada również logi w cmd
 
-Oxygdon#0150
+![](https://imgur.com/KqrAtRu.png)
+
+### Kontakt Support
+
+## Oxygdon#0150
+
+## jeśli potrzebujesz pomocy, chcesz nawiąząć wspołpracę, jesteś zainteresowany botem discord na zamówienie - napisz
