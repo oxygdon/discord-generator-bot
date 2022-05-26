@@ -8,5 +8,5 @@
 the bot has a unique design
 
 ![](https://imgur.com/4RICUNY.png)
-![](https://imgur.com/q911avz)
-![](https://imgur.com/xqekks0)
+![](https://imgur.com/q911avz.png)
+![](https://imgur.com/xqekks0.png)
